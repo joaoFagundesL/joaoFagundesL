@@ -19,5 +19,5 @@
 
   ##
   
-  ![Snake animation](https://github.com/joaoFagundesL/joaoFagundesL/blob/output/github-contribution-grid-snake.svg)
+  
 
