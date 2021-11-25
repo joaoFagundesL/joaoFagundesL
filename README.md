@@ -1,6 +1,6 @@
 ### Olá, sou o João 👋
 
-- 🌱 Estudando Python e C
+- 🌱 Estudando Java e C
 
 <div align="center">
   <a href="https://github.com/joaoFagundesL">
