@@ -1,10 +1,10 @@
 Hi 👋 My name is Joao Fagundes
 ==============================
 
-Computer Science student
+Computer Science student - UTFPR
 ------------------------
 
-UTFPR Interested in back-end development
+Interested in back-end development
 
 * 🧠  I'm learning Java, MySQL
 *    Arch btw :D
