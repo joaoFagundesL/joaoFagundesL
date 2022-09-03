@@ -6,7 +6,7 @@ Computer Science student - UTFPR
 
 Interested in back-end development
 
-* 🧠  I'm learning Java, MySQL
+* 🧠  Just making things...
 *    Arch btw :D
 
 ### Skills
