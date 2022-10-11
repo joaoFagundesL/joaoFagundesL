@@ -36,7 +36,7 @@ Interested in back-end development
 <a href="http://www.github.com/joaoFagundesL"><img src="https://activity-graph.herokuapp.com/graph?username=joaoFagundesL&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=joaoFagundesL" height="150" alt="languages graph"  />
 </div>
 
