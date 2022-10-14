@@ -37,7 +37,7 @@ Interested in back-end development
 
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=joaoFagundesL" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&username=joaoFagundesL" height="150" alt="languages graph"  />
 </div>
 
 
