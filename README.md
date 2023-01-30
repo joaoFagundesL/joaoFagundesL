@@ -4,7 +4,7 @@ Hi 👋 My name is Joao Fagundes
 Computer Science student - UTFPR
 ------------------------
 
-Interested in back-end development
+Always learning...
 
 * 🧠  Just making things...
 *    Arch btw :D
