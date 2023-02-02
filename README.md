@@ -31,13 +31,9 @@ Always learning...
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/joaoFagundesL"><img src="https://github-readme-stats.vercel.app/api?username=joaoFagundesL&show_icons=true&hide=&count_private=false&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="joaoFagundesL's GitHub stats" /></a>
-
-<a href="http://www.github.com/joaoFagundesL"><img src="https://activity-graph.herokuapp.com/graph?username=joaoFagundesL&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&username=joaoFagundesL" height="150" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=joaoFagundesL " height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&username=joaoFagundesL " height="150" alt="languages graph"  />
 </div>
 
-
+###
