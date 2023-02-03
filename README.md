@@ -29,6 +29,10 @@ Always learning...
 
 ###
 
+<h2 align="left">Socials</h2>
+
+###
+
 <div align="left">
   <a href="https://www.linkedin.com/in/joao-fagundes-5b6657222/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -38,8 +42,8 @@ Always learning...
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=false&username=joaoFagundesL" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=cobalt&hide_border=false&username=joaoFagundesL" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=false&username=joaoFagundesL" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=cobalt&hide_border=false&username=joaoFagundesL" height="150" alt="languages graph"  />
 </div>
 
 ###
