@@ -6,8 +6,7 @@ Computer Science student - UTFPR
 
 Always learning...
 
-* 🧠  Just making things...
-*    Arch btw :D
+*    BTW, I use arch :)
 
 
 <h2 align="left">I code with</h2>
