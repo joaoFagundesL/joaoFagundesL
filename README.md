@@ -7,6 +7,7 @@ Computer Science student - UTFPR
 Always learning...
 
 *    BTW, I use arch :)
+*    nvim >>
 
 
 <h2 align="left">I code with</h2>
