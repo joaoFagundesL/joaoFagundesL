@@ -4,7 +4,7 @@ Hi 👋 My name is Joao Fagundes
 Computer Science student - UTFPR
 ------------------------
 
-It doesnt matter the language you code, what matters is writing it in vim
+always learning
 
 *    BTW, I use arch :)
 *    nvim >>
