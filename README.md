@@ -4,10 +4,9 @@ Hi 👋 My name is Joao Fagundes
 Computer Science student - UTFPR
 ------------------------
 
-always learning
+it doesn't matter the language you code, the important thing is wrinting it in vim
 
 *    BTW, I use arch :)
-*    nvim >>
 
 
 <h2 align="left">I code with</h2>
