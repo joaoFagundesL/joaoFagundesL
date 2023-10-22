@@ -4,8 +4,7 @@ Hi 👋 My name is Joao Fagundes
 Computer Science student - UTFPR
 ------------------------
 
-vim is not just a text editor, it's a lifestyle (i haven't touched my mouse in years)
-
+i spend way too much time ricing
 *    BTW, I use arch :)
 
 
